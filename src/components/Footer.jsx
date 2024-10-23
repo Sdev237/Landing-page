@@ -20,7 +20,7 @@ export const Footer = () => {
           <a href='#/' target="_blank" rel="noreferrer">About</a>
         </div>
         <div>&copy; 2024 All right reserved{" "}
-          <a href='#/' target="_blank" rel="noreferrer">Landing Page</a>
+          <a href='#/' target="_blank" rel="noreferrer">Sdev Sap & Remote Monkey</a>
         </div>
       </div>
     </Container>
